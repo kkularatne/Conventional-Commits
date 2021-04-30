@@ -15,5 +15,7 @@ namespace SomeProject
         // oh wait I did a mistake, fixing it now.
         // Adding some unit tests for my awesome feature.
         // fixing code smells.
+
+        // my another feature.
     }
 }
