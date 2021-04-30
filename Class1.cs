@@ -8,5 +8,6 @@ namespace SomeProject
         // refactor commit two.
         // adding some test.
         // fixing something broken.
+        // adding a new feature.
     }
 }
