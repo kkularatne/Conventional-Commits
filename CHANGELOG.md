@@ -1,4 +1,11 @@
 # ChangeLog for SomeProject By SomeProjectTeam
+<a name="1.1.1"></a>
+## 1.1.1 (2021-4-30)
+
+### Other
+
+* BREAKING CHANGE: BreAkiNg bAD
+
 <a name="1.1.0"></a>
 ## 1.1.0 (2021-4-30)
 
