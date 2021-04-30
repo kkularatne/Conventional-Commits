@@ -1,4 +1,15 @@
 # ChangeLog for SomeProject By SomeProjectTeam
+<a name="2.0.0"></a>
+## 2.0.0 (2021-4-30)
+
+### Features
+
+* a really cool new feature
+
+### Breaking Changes
+
+* a really cool new feature
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2021-4-30)
 
