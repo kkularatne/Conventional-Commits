@@ -11,5 +11,6 @@ namespace SomeProject
         // adding a new feature.
         // Breaking bad.
         // Trying to break this again!!
+        // adding an awesome feature using a feature branch.
     }
 }
