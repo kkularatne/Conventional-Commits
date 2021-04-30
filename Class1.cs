@@ -9,5 +9,6 @@ namespace SomeProject
         // adding some test.
         // fixing something broken.
         // adding a new feature.
+        // Breaking bad.
     }
 }
